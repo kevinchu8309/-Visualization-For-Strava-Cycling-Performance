@@ -17,3 +17,9 @@ For ggplot2 vis:
     activity.csv: contain the activities I have for the past few month. Variables like Ave heart rate / power and cadence ...etc.
 
     segment.csv: include the finish time and the power ratio from different cyclist.
+
+For Tableau vis:
+
+    activity.twb / activity.hyper: contain the activities I have for the past few month. Variables like Ave heart rate / power and cadence ...etc.
+
+    segment.twb / segment.hyper: include the finish time and the power ratio from different cyclist.
